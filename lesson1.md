@@ -63,7 +63,7 @@ ___
 
 - создайте ссылку с помощью слова 'key' в квадратных скобках, затем двоеточие, пробел и ваша ссылка
 
-[key]: https://github.com/denisrasulev/file-name-conventions
+[key]: https://gb.ru
 
 [Сайт][key]
 
