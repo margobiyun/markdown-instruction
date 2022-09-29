@@ -116,12 +116,11 @@ _Например:_
 
 ![Котята](https://img-cdn.tinkoffjournal.ru/i/NlbrtixTSlc3NoszM-V6wMf2VS4Pm9Kt0ZpnE_rP5GY/w:1400/aHR0cHM6Ly9pbWct/Y2RuLnRpbmtvZmZq/b3VybmFsLnJ1Ly0v/bWFpbl9fX2tpdHRl/bnMuMGE4aWF6bHpo/dnNnLmpwZw)
 
-- Определить ссылку
+- Делаем ссылку на изображение
 
-[Изображение] 
-:https://img-cdn.tinkoffjournal.ru/i/NlbrtixTSlc3NoszM-V6wMf2VS4Pm9Kt0ZpnE_rP5GY/w:1400/aHR0cHM6Ly9pbWct/Y2RuLnRpbmtvZmZq/b3VybmFsLnJ1Ly0v/bWFpbl9fX2tpdHRl/bnMuMGE4aWF6bHpo/dnNnLmpwZw
+[Изображение]: https://img-cdn.tinkoffjournal.ru/i/NlbrtixTSlc3NoszM-V6wMf2VS4Pm9Kt0ZpnE_rP5GY/w:1400/aHR0cHM6Ly9pbWct/Y2RuLnRpbmtvZmZq/b3VybmFsLnJ1Ly0v/bWFpbl9fX2tpdHRl/bnMuMGE4aWF6bHpo/dnNnLmpwZw
 
-- Еще способ:
+- И:
 
 ![Котята][Изображение]
 
