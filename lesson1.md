@@ -131,6 +131,62 @@ _Например:_
 
 <image src="/Users/margarita/Desktop/pumpkin/тыква.jpg" alt="Тыква">
 
+___
 
+## Код
 
+- Можно изобразить код с помощь 3х обратных опострафов {``}, обрамляя ими код с начала и конца кода.
 
+_Например:_
+
+```
+numbers = [2, 4, 1, 6]
+size = 4
+summ = 0
+avg = 0
+ind = 0
+while (ind<size):
+    summ = summ + numbers[und]
+    ind = ind + 1
+avg = summ/size
+print (avg)
+```
+>! если мы хотим, чтобы код был в определенном языке,то после первых 3х обратных опострафов нужно написать название языка программирования
+
+_Например:_
+
+```python
+numbers = [2, 4, 1, 6]
+size = 4
+summ = 0
+avg = 0
+ind = 0
+while (ind<size):
+    summ = summ + numbers[und]
+    ind = ind + 1
+avg = summ/size
+print (avg)
+```
+
+_Или_
+
+```javascript
+numbers = [2, 4, 1, 6]
+size = 4
+summ = 0
+avg = 0
+ind = 0
+while (ind<size):
+    summ = summ + numbers[und]
+    ind = ind + 1
+avg = summ/size
+print (avg)
+```
+
+_Или_ 
+
+```html
+<div>
+    <p> Это html пример </p>
+</div>
+```
