@@ -156,6 +156,14 @@ _Например:_
 
 <image src="/Users/margarita/Documents/pumpkin/тыква.jpg" alt="Тыква">
 
+или 
+
+В папку с файлом помещаете картинку и
+
+![Тыква](%D1%82%D1%8B%D0%BA%D0%B2%D0%B0.jpg)
+
+
+
 
 ___
 
